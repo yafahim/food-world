@@ -17,14 +17,21 @@ h1{
     width: 70%;
     
 }
-section{
+.flexabile-containt{
     display: flex;
+    margin-top: 100px;
 }
 .bottam-link{
     text-decoration: none;
-    background-image: linear-gradient(orange,green);
-    padding: 10px 20px;
+    background-image: linear-gradient(SlateBlue,
+    MediumSeaGreen);
+    padding: 10px 30px;
     color: whitesmoke;
-    font-weight: 700;
+    font-weight: 700 px;
     border-radius: 20px;
+}
+.banner{
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    padding: 2%;
 }
