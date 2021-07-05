@@ -5,9 +5,14 @@ body{
 h1{
     font-size: 60px;
 }
+.h1-add{
+    color: grey;
+    text-align: center;
+
+}
 
 .orange-color{
-    color: rgb(250, 166, 10);
+    color: MediumSeaGreen;
 }
 .half-width{
     width: 50%;
@@ -35,3 +40,21 @@ h1{
     background-repeat: no-repeat;
     padding: 2%;
 }
+h4{ width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    color: gray;
+}
+h3{
+    font-size: 40px;
+}
+footer{
+    background-color: rgb(28, 1, 29);
+    text-align: center;
+    color: gray;
+}
+
+  
+
+
+
