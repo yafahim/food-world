@@ -18,14 +18,22 @@ h1{
 .orange-color{
     color: MediumSeaGreen;
 }
+.half-width2{
+    width: 50%;
+    padding: 3%;
+}
+.half-width2 img{
+    width: 90%;
+}
 .half-width{
     width: 50%;
     padding: 3%;
 }
 .half-width img{
-    width: 70%;
+    width: 40%;
     
 }
+
 .flexabile-containt{
     display: flex;
     margin-top: 100px;
@@ -61,20 +69,20 @@ h3{
     width: 30%;
     margin-left: 1%;
     box-shadow: 10px 10px 20px gray;
-    border-radius: 40px;
+    border-radius: 10px;
  
 
 }
 h5{
     text-align: center;
-    color: grey;
+    color: rebeccapurple;
 }
 
 .img{
     width: 400px;
     height: 300px;
     border-radius: 10px;
-    box-shadow: 10px 10px 40px whitesmoke;
+    box-shadow: 10px 10px 10px whitesmoke;
 }
 
 
